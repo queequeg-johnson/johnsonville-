@@ -18,3 +18,10 @@ So, our first goal is to find:
 From there we could build out to have a user interface, realtime data, and cool visual stuff!
 
 But again, for now, we are just building :)
+
+--
+# Methodology
+
+One of the goals of this project is to minimize the use of AIs, particularly ones that run on some other computer.
+Small, local LLMs may be used for purpose built application, some may even be fine tuned for this project,
+but I do *not* want the majority of the code to be written, or even inspired by AI responses.
