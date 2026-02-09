@@ -25,3 +25,8 @@ But again, for now, we are just building :)
 One of the goals of this project is to minimize the use of AIs, particularly ones that run on some other computer.
 Small, local LLMs may be used for purpose built application, some may even be fine tuned for this project,
 but I do *not* want the majority of the code to be written, or even inspired by AI responses.
+
+# Ideas
+
+Some possible ideas for the endgame include a website with elements that are controlled by the weather.
+This may include some HTML/CSS widget that could be plugged into a nother website.
