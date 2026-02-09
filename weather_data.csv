@@ -1,0 +1,18 @@
+Metric,Value,Unit
+City,Los Angeles,
+Country,US,
+Description,clear sky,
+Temperature,23.63,°C
+Feels Like,23.15,°C
+Min Temp,19.58,°C
+Max Temp,25.81,°C
+Humidity,42,%
+Pressure,1013,hPa
+Sea Level Pressure,1013,hPa
+Ground Level Pressure,993,hPa
+Wind Speed,4.12,m/s
+Wind Direction,260,degrees
+Clouds,0,%
+Visibility,10.0,km
+Latitude,34.0522,degrees
+Longitude,-118.2437,degrees
